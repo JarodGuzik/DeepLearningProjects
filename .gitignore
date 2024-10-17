@@ -3,3 +3,6 @@
 
 # ignore All .html files
 *.html
+
+# ignore All .npz files
+*.npz
