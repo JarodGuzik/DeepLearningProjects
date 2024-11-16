@@ -6,3 +6,6 @@
 
 # ignore All .npz files
 *.npz
+
+# ignore ALL .png files
+*.png
